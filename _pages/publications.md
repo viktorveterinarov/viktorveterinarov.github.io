@@ -28,9 +28,7 @@ Voprosy Ekonomiki. 2023 (In Russian)
 
 <a href="https://doi.org/10.17323/1813-8691-2021-25-1-9-41" target="_blank">Priority Development Areas and Productivity Growth in Russian Cities</a> (joint with Sergei Belev and Olga Suchkova)
 -----
-<div>
-  <p>HSE Economic Journal. 2021 (In Russian)</p>
-</div>
+HSE Economic Journal. 2021 (In Russian)
 
 Work in Progress
 ----
