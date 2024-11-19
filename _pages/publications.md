@@ -21,6 +21,14 @@ Publications in Russian
 =====
 
 
+<a href="https://doi.org/10.32609/0042-8736-2023-9-47-64" target="_blank">Estimation of Electronic Procedures Effects in Public Procurement Under Favoritism</a> (joint with Sergei Belev and Evgenii Matveev)
+-----
+<div style="margin: 0;">
+ <p>Voprosy Ekonomiki. 2023 (In Russian)</p>
+ <p>Competition Policy, Corruption</p>
+</div>
+
+
 <a href="https://ej.hse.ru/en/2021-25-1/450433202.html" target="_blank">Priority Development Areas and Productivity Growth in Russian Cities</a> (joint with Sergei Belev and Olga Suchkova)
 -----
 <div style="margin: 0;">
