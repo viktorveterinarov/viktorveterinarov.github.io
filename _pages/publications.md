@@ -1,14 +1,12 @@
 ---
 layout: archive
-title: "Graduate Level Teaching"
+title: "Working Papers"
 permalink: /publications/
 author_profile: true
 ---
 
 {% include base_path %}
 
-<a href="https://syllabus.sciencespo.fr/cours/202410/247601.html" target="_blank">Econometrics 3: Treatment effects</a>, Sciences Po (Paris)
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4983808" target="_blank">Slavs Only: Open Xenophobia and Racial Disparities in Rental Housing</a> (with <a href="https://syllabus.sciencespo.fr/cours/202410/247601.html" target="_blank">Vladimir Avetian</a>)
 -----
-* Teaching Assistant (12 sessions)
-* Master in Economics (second-year course)
-* Contact: Clement de Chaisemartin, <a href="mailto:clement.dechaisemartin@sciencespo.fr">clement.dechaisemartin@sciencespo.fr</a> 
+(October 2024)
