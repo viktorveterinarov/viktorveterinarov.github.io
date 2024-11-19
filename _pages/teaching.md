@@ -9,5 +9,5 @@ author_profile: true
 
 Econometrics 3: Treatment effects, Master in Economics (2nd year course)
 -----
-* Teaching Assistant at Sciences Po (Paris),
-* Contacts: Clement de Chaisemartin (Sciences Po), clement.dechaisemartin@sciencespo.fr
+* Teaching Assistant at Sciences Po (Paris)
+* Contact: Clement de Chaisemartin (Sciences Po), clement.dechaisemartin@sciencespo.fr
