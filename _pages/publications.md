@@ -21,8 +21,10 @@ Publications in Russian
 -----
 <a href="https://ej.hse.ru/en/2021-25-1/450433202.html" target="_blank">Priority Development Areas and Productivity Growth in Russian Cities</a> (joint with Sergei Belev and Olga Suchkova)
 -----
-HSE Economic Journal. 2021 (In Russian)
-Public Economics, Policy Evaluation
+<div>
+ <p>HSE Economic Journal. 2021 (In Russian)</p>
+ <p>Public Economics, Policy Evaluation</p>
+</div>
 
 Work in Progress
 -----
