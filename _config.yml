@@ -22,11 +22,11 @@ repository               : "viktorveterinarov/viktorveterinarov.github.io"
 author:
   # Biographic information
   avatar           : "ViktorLinkedIn.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Viktor Veterinarov"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Ph.D. Candidate in Economics"
   location         : "Earth"
-  employer         : "SCiences Po (Paris)"
+  employer         : "Sciences Po (Paris)"
   uri              : # URL
   email            : "viktor.veterinarov@sciencespo.fr" 
 
@@ -49,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
