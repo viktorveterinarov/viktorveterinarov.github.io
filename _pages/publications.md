@@ -25,7 +25,6 @@ Publications in Russian
 -----
 <div>
  <p>Voprosy Ekonomiki. 2023 (In Russian)</p>
- <p>Competition Policy, Corruption</p>
 </div>
 
 
@@ -33,7 +32,6 @@ Publications in Russian
 -----
 <div>
   <p>HSE Economic Journal. 2021 (In Russian)</p>
-  <p>Public Economics, Policy Evaluation</p>
 </div>
 
 Work in Progress
