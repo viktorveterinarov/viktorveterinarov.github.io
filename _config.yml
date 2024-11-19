@@ -21,18 +21,18 @@ repository               : "viktorveterinarov/viktorveterinarov.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ViktorLinkedIn.jpg"
+  avatar           : # "ViktorLinkedIn.jpg"
   name             : # name
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate in Economics"
+  bio              : # "Ph.D. Candidate in Economics"
   location         : # address
-  employer         : "Sciences Po (Paris)"
+  employer         : # "Sciences Po (Paris)"
   uri              : # URL
-  email            : "viktor.veterinarov@sciencespo.fr" 
+  email            : # "viktor.veterinarov@sciencespo.fr" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=tIoH6ksAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=tIoH6ksAAAAJ"
   impactstory      : # URL
   orcid            : # URL
   semantic         : # URL
