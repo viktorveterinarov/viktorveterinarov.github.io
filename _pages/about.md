@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <div style="display: flex; align-items: flex-start;">
-  <img src="/images/YoungViktor.JPG" alt="Viktor" style="width: 300px; margin-right: 20px;">
+  <img src="/images/ForeverYoungViktor.JPG" alt="Viktor" style="width: 300px; margin-right: 20px;">
   
   <div>
     <p>I am a first-year PhD Candidate at Sciences Po (Paris) Department of Economics. Previously I worked as a Pre-Doctoral Research Assistant at the Hub for Equal Representation at the LSE.</p>
