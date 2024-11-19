@@ -5,7 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-
+---
 <div style="display: flex; align-items: flex-start;">
   <img src="/images/YoungViktor.JPG" alt="Viktor" style="width: 300px; margin-right: 20px;">
   
