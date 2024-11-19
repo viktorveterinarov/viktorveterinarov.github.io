@@ -13,7 +13,7 @@ redirect_from:
     <p>I am a first-year PhD Candidate at the <a href="https://www.sciencespo.fr/department-economics/researcher/viktor-veterinarov" target="_blank">Sciences Po (Paris)</a> Department of Economics. </p>
     <p>Previously I worked as a Pre-Doctoral Research Assistant at the <a href="https://www.hubequalrep.org/our-team/" target="_blank">Hub for Equal Representation</a> at the LSE.</p>
     <p>My research focuses on labour and public economics, with a particular emphasis on inequality.</p>
-    <p>You can email me: <a href="mailto:viktorveterinarov@sciencespo.fr">viktorveterinarov@sciencespo.fr</a></p>
+    <p>You can email me: <a href="mailto:viktor.veterinarov@sciencespo.fr">viktor.veterinarov@sciencespo.fr</a></p>
   </div>
 </div>
 
