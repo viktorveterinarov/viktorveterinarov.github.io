@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "Viktor Veterinarov"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Viktor Veterinarov"
+description              : &description "Ph.D. Candidate in Economics"
 url                      : https://viktorveterinarov.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "viktorveterinarov/viktorveterinarov.github.io"
@@ -22,10 +22,10 @@ repository               : "viktorveterinarov/viktorveterinarov.github.io"
 author:
   # Biographic information
   avatar           : "ViktorLinkedIn.jpg"
-  name             : "Viktor Veterinarov"
+  name             : # name
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate in Economics"
-  location         : "Earth"
+  location         : # address
   employer         : "Sciences Po (Paris)"
   uri              : # URL
   email            : "viktor.veterinarov@sciencespo.fr" 
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=tIoH6ksAAAAJ"
   impactstory      : # URL
-  orcid            : "http://https://orcid.org/0000-0002-0169-1451"
+  orcid            : # URL
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
