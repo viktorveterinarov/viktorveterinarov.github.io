@@ -11,4 +11,4 @@ author_profile: true
 -----
 * Teaching Assistant (12 sessions)
 * Master in Economics (second-year course)
-* Contact: Clement de Chaisemartin (Sciences Po), <a href="mailto:clement.dechaisemartin@sciencespo.fr">clement.dechaisemartin@sciencespo.fr</a> 
+* Contact: Clement de Chaisemartin, <a href="mailto:clement.dechaisemartin@sciencespo.fr">clement.dechaisemartin@sciencespo.fr</a> 
