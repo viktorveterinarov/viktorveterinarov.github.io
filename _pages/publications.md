@@ -7,33 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-.research-paper-section {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: flex-start;
-}
-
-.research-paper-section .responsive-image {
-  width: 40%; /* Image takes 40% of the width */
-  margin: 0 20px 20px 0; /* Margin around the image */
-  object-fit: cover;
-}
-
-.research-paper-section .responsive-text {
-  flex: 1; /* Make the text occupy the remaining space */
-}
-
-/* Responsive behavior: image above text for small screens */
-@media (max-width: 768px) {
-  .research-paper-section {
-    flex-direction: column; /* Stack image and text vertically */
-  }
-  .research-paper-section .responsive-image {
-    width: 100%; /* Full width of the container */
-    margin: 0 0 20px 0; /* Margin below the image */
-  }
-}
-
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4983808" target="_blank">Slavs Only: Open Xenophobia and Racial Disparities in Rental Housing</a> (joint with <a href="https://vladimir-avetian.github.io/" target="_blank">Vladimir Avetian</a>)
 -----
 
