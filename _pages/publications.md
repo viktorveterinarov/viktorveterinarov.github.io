@@ -12,11 +12,38 @@ author_profile: true
 
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start;">
   <img src="/images/map_dots_cat.jpg" alt="Viktor" 
-       style="width: 40%; margin: 0 20px 20px 0; object-fit: cover;">
-  <div style="flex: 1;">
+       style="width: 40%; margin: 0 20px 20px 0; object-fit: cover;" class="responsive-image">
+  <div style="flex: 1;" class="responsive-text">
     <p align="justify"><b>Abstract:</b> What if prejudice were visible? This paper examines the exceptional case of Moscow's rental market, where 20% of listings explicitly state racial preferences. Leveraging a novel design that compares apartments within the same building, we establish a causal link between discrimination and prices, showing that discriminatory apartments are 4% cheaper. A correspondence experiment shows that overt and subtle forms of discrimination coexist and act as complements. The total level of discrimination matches the highest observed in the most discriminatory areas of the United States. By exposing typically hidden preferences, these findings provide rare insights into how discrimination distorts housing prices.</p>
   </div>
 </div>
+
+<style>
+  /* General styling for the container */
+  div {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+  }
+
+  /* Styling the image */
+  img.responsive-image {
+    width: 40%; /* Image takes 40% of the width */
+    margin: 0 20px 20px 0; /* Margin around the image */
+    object-fit: cover;
+  }
+
+  /* Responsive behavior: image above text */
+  @media (max-width: 768px) {
+    img.responsive-image {
+      width: 100%; /* Full width of the container */
+      margin: 0 0 20px 0; /* Margin below the image */
+    }
+    div {
+      flex-direction: column; /* Stack image and text vertically */
+    }
+  }
+</style>
 
 Publications in Russian 
 =====
