@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <div style="display: flex; align-items: flex-start;">
-  <img src="/images/ForeverYoungViktor.JPG" alt="Viktor" style="width: 300px; margin-right: 20px;">
+  <img src="/images/ForeverYoungViktor.JPG" alt="Viktor" style="width: 40%; margin-right: 20px;">
   
   <div>
     <p>I am a first-year PhD Candidate at the <a href="https://www.sciencespo.fr/department-economics/researcher/viktor-veterinarov" target="_blank">Sciences Po (Paris)</a> Department of Economics. </p>
