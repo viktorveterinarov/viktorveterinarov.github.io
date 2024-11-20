@@ -13,7 +13,7 @@ redirect_from:
   <p>My research focuses on labor and public economics, with a particular emphasis on inequality.</p>
   <p>You can email me: <a href="mailto:viktor.veterinarov@sciencespo.fr">viktor.veterinarov@sciencespo.fr</a></p>
   <p>My Google Scholar <a href="https://scholar.google.com/citations?user=tIoH6ksAAAAJ&hl=en&oi=ao" target="_blank">link</a></p>
-  <p>My latest <a href="/files/ViktorVeterinarovCV" target="_blank">CV</a></p>
+  <p>My latest <a href="/files/ViktorVeterinarovCV.pdf" download>CV</a></p>
 
 </div>
 
