@@ -11,7 +11,7 @@ redirect_from:
 
 <div class="pdf-container">
   <!-- Embed PDF -->
-  <embed src="/files/ViktorVeterinarovCV.pdf" type="application/pdf" width="80%" height="1000px" class="desktop-pdf">
+  <embed src="/files/ViktorVeterinarovCV.pdf" type="application/pdf" width="80%" height="800px" class="desktop-pdf">
   
   <!-- Fallback for mobile users -->
   <p class="mobile-fallback" style="text-align: left;">
