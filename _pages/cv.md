@@ -15,7 +15,7 @@ redirect_from:
   
   <!-- Fallback for mobile users -->
   <p class="mobile-fallback" style="text-align: left;">
-    You can download my CV <a href="/files/ViktorVeterinarovCV.pdf" download>here</a>.
+    You can download my CV <a href="/files/ViktorVeterinarovCV.pdf" download>here</a>
   </p>
 </div>
 
