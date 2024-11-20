@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <div style="overflow: auto;">
-  <img src="/images/ForeverYoungViktor.JPG" alt="Viktor" style="width: 35%; float: left; margin-right: 2%;">
+  <img src="/images/ForeverYoungViktor.JPG" alt="Viktor" style="width: 37%; float: left; margin-right: 2%;">
 
   <p>I am a first-year PhD Candidate at the <a href="https://www.sciencespo.fr/department-economics/researcher/viktor-veterinarov" target="_blank">Sciences Po (Paris)</a> Department of Economics. Previously I worked as a Pre-Doctoral Research Assistant at the <a href="https://www.hubequalrep.org/our-team/" target="_blank">Hub for Equal Representation (H.E.R.)</a> at the LSE.</p>
   <p>My research focuses on labor and public economics, with a particular emphasis on inequality.</p>
