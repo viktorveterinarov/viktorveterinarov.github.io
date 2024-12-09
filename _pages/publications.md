@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4983808" target="_blank">Slavs Only: Open Xenophobia and Racial Disparities in Rental Housing</a> (joint with <a href="https://vladimir-avetian.github.io/" target="_blank">Vladimir Avetian</a>)
+<a href="https://dx.doi.org/10.2139/ssrn.4983808" target="_blank">Slavs Only: Open Xenophobia and Racial Disparities in Rental Housing</a> (joint with <a href="https://vladimir-avetian.github.io/" target="_blank">Vladimir Avetian</a>)
 -----
 
 <div class="research-paper-section">
