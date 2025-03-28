@@ -13,7 +13,7 @@ author_profile: true
 <div class="research-paper-section">
   <img src="/images/map_dots_cat.jpg" alt="Viktor" class="responsive-image" width="100%">
     <div class="responsive-text">
-    <p align="justify"><b>Abstract:</b> What if prejudice were visible? This paper examines the exceptional case of Moscow's rental market, where 20% of listings explicitly state racial preferences. Leveraging a novel design that compares apartments within the same building, we establish a causal link between discrimination and prices, showing that discriminatory apartments are 4% cheaper. A correspondence experiment shows that overt and subtle forms of discrimination coexist and act as complements. The total level of discrimination matches the highest observed in the most discriminatory areas of the United States. By exposing typically hidden preferences, these findings provide rare insights into how discrimination distorts housing prices.</p>
+    <p align="justify"><b>Abstract:</b>  We collect and examine a unique six-month dataset of daily listings from Moscow’s rental market, in which we find that 20% explicitly state racial preferences. Using a novel design that compares apartments within the same building, we establish a causal link between discrimination and prices, showing that discriminatory apartments are 4% cheaper. A subsequent correspondence experiment reveals that overt and subtle discrimination coexist and act as complements. The relative response rates match those observed in the most discriminatory U.S. cities. Our findings suggest that prejudiced landlords are willing to pay for their bias, thereby driving racial rent differentials.</p>
   </div>
 </div>
 
