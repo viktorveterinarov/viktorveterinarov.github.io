@@ -8,8 +8,10 @@ author_profile: true
 {% include base_path %}
 
 <a href="https://dx.doi.org/10.2139/ssrn.4983808" target="_blank">Slavs Only: Open Xenophobia and Racial Disparities in Rental Housing</a> (joint with <a href="https://vladimir-avetian.github.io/" target="_blank">Vladimir Avetian</a>)
-<br><em>under review</em>
 -----
+
+<br><em>under review</em>
+
 
 <div class="research-paper-section">
   <img src="/images/map_dots_cat.jpg" alt="Viktor" class="responsive-image" width="100%">
