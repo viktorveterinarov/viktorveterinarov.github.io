@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<a href="https://syllabus.sciencespo.fr/cours/202410/247601.html" target="_blank">Econometrics 3: Treatment effects</a>, Sciences Po (Paris)
+<a href="https://web.archive.org/web/20250425134013/https://syllabus.sciencespo.fr/cours/202410/247601.html" target="_blank">Econometrics 3: Treatment effects</a>, Sciences Po (Paris)
 -----
 * Teaching Assistant (12 sessions)
 * Master in Economics (second-year course, autumn 2024)
