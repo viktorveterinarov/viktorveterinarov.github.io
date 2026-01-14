@@ -13,7 +13,7 @@ author_profile: true
 * Research Master’s in Economics, second-year course
 * Lecturer: Clement de Chaisemartin, <a href="mailto:clement.dechaisemartin@sciencespo.fr">clement.dechaisemartin@sciencespo.fr</a>
 * Teaching evaluations (Autumn 2025):
-  * Overall learning experience: 3.95/4.00 (Excellent) (95% Excellent, 5% Good; n=19, response rate 90%)
+  * Overall learning experience: 3.95/4.00 (<span style="color:#C2185B; font-weight:700;">Excellent</span>) (95% Excellent, 5% Good; n=19, response rate 90%)
   * Selected student comments (anonymous):
     * “A very simple way of <span style="color:#C2185B; font-weight:700;">explaining what seems to be very complex</span>, and also taking the time to <span style="color:#C2185B; font-weight:700;">answer all the questions and doubts</span>.”
     * “Viktor, as a teaching assistant, helped make the seminar a <span style="color:#C2185B; font-weight:700;">perfect complement to the lectures</span>...”
