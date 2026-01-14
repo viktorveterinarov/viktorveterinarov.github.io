@@ -15,7 +15,7 @@ author_profile: true
 * Teaching evaluations (Autumn 2025):
   * Overall learning experience: 3.95/4.00 (Excellent) (95% Excellent, 5% Good; n=19, response rate 90%)
   * Selected student comments (anonymous):
-    * “A very simple way of <span style="color:#C2185B; font-weight:700;">explaining what seems to be very complex</span>, and also taking the time to <span style="color:#C2185B; font-weight:700;">answer all the questions and doubts</span>.”
-    * “Viktor, as a teaching assistant, helped make the seminar a perfect complement to the lectures...”
-    * “The class discussions really helped deepen our understanding. Viktor was very approachable... Such a positive environment helped us learn...”
+    * “A very simple way of **explaining what seems to be very complex**, and also taking the time to **answer all the questions and doubts**.”
+    * “Viktor, as a teaching assistant, helped make the seminar a **perfect complement to the lectures**...”
+    * “The class discussions really **helped deepen our understanding**. Viktor was very approachable... Such a **positive environment** helped us learn...”
   * Full evaluation report (PDF): <a href="/files/EvalByStudents_TA_Veterinarov_Autumn2025.pdf" download>download</a> 
