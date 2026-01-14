@@ -14,7 +14,7 @@ author_profile: true
 * Lecturer: Clement de Chaisemartin, <a href="mailto:clement.dechaisemartin@sciencespo.fr">clement.dechaisemartin@sciencespo.fr</a>
 * Teaching evaluations (autumn 2025):
   * Overall learning experience: 3.95/4.00 (Excellent) (95% Excellent, 5% Good; n=19, response rate 90%).
-  * <strong>Selected student comments (anonymous):</strong>
+  * Selected student comments (anonymous):
     * “A very simple way of explaining what seems to be very complex, and also taking the time to answer all the questions and doubts.”
     * “Viktor, as a teaching assistant, helped make the seminar a perfect complement to the lectures... ”
     * “The class discussions really helped deepen our understanding. Viktor was very approachable... Such a positive environment helped us learn...”
