@@ -12,7 +12,7 @@ author_profile: true
 * Teaching Assistant (12 sessions)
 * Research Master’s in Economics, second-year course
 * Lecturer: Clement de Chaisemartin, <a href="mailto:clement.dechaisemartin@sciencespo.fr">clement.dechaisemartin@sciencespo.fr</a>
-* Teaching evaluations (autumn 2025):
+* Teaching evaluations (Autumn 2025):
   * Overall learning experience: 3.95/4.00 (Excellent) (95% Excellent, 5% Good; n=19, response rate 90%).
   * Selected student comments (anonymous):
     * “A very simple way of explaining what seems to be very complex, and also taking the time to answer all the questions and doubts.”
