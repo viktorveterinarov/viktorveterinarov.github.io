@@ -18,3 +18,4 @@ author_profile: true
     * “A very simple way of explaining what seems to be very complex, and also taking the time to answer all the questions and doubts.”
     * “Viktor, as a teaching assistant, helped make the seminar a perfect complement to the lectures... ”
     * “The class discussions really helped deepen our understanding. Viktor was very approachable... Such a positive environment helped us learn...”
+  * Full evaluation report (PDF): <a href="/files/EvalByStudents_TA_Veterinarov_Autumn2025.pdf" download>download</a> 
