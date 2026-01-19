@@ -18,4 +18,3 @@ author_profile: true
     * “A very simple way of <span style="color:#C2185B; font-weight:700;">explaining what seems to be very complex</span>, and also taking the time to <span style="color:#C2185B; font-weight:700;">answer all the questions and doubts</span>.”
     * “Viktor, as a teaching assistant, helped make the seminar a <span style="color:#C2185B; font-weight:700;">perfect complement to the lectures</span>...”
     * “The class discussions really <span style="color:#C2185B; font-weight:700;">helped deepen our understanding</span>. Viktor was very approachable... Such a <span style="color:#C2185B; font-weight:700;">positive environment</span> helped us learn...”
-  * Full evaluation report (PDF): <a href="/files/EvalByStudents_TA_Veterinarov_Autumn2025.pdf" download>download</a> 
