@@ -9,9 +9,9 @@ author_profile: true
 
 <a href="https://web.archive.org/web/20250425134013/https://syllabus.sciencespo.fr/cours/202410/247601.html" target="_blank">Econometrics 3: Treatment effects</a> (Sciences Po Paris, 2024 – present)
 -----
+* Lecturer: Clement de Chaisemartin, <a href="mailto:clement.dechaisemartin@sciencespo.fr">clement.dechaisemartin@sciencespo.fr</a>
 * Teaching Assistant (12 sessions)
 * Research Master’s in Economics, second-year course
-* Lecturer: Clement de Chaisemartin, <a href="mailto:clement.dechaisemartin@sciencespo.fr">clement.dechaisemartin@sciencespo.fr</a>
 * Teaching evaluations (Autumn 2025):
   * Overall learning experience: 3.95/4.00 (<span style="color:#C2185B; font-weight:700;">Excellent</span>) (95% Excellent, 5% Good; n=19, response rate 90%)
   * Selected student comments (anonymous):
