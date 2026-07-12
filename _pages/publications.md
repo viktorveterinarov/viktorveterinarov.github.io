@@ -9,6 +9,7 @@ author_profile: true
 
 <a href="https://dx.doi.org/10.2139/ssrn.4983808" target="_blank">Slavs Only: Overt Discrimination and Racial Disparities in Rental Housing</a> (joint with <a href="https://vladimir-avetian.github.io/" target="_blank">Vladimir Avetian</a>)<br>
 <em>Revise and Resubmit at the Journal of Urban Economics, July 2026</em>
+
 -----
 
 
