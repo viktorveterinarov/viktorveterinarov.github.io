@@ -3060,3 +3060,17 @@ blockquote {
   font-weight: 600;
   color: var(--ink);
 }
+
+/* 2026-11-11: research figures shown bare (no white frame, no caption),
+   at the cropped image's own aspect ratio. */
+.research-item-figure,
+.research-item-figure img {
+  padding: 0;
+  background: none;
+}
+
+.research-item-figure img {
+  height: auto;
+  aspect-ratio: auto;
+  object-fit: initial;
+}
