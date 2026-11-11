@@ -148,7 +148,7 @@ social:
 analytics:
   provider: "google-analytics-4"
   google:
-    tracking_id: "G-PSDL9HQW5"
+    tracking_id: "G-PSDLY9HQW5"
 
 
 # Reading Files
@@ -157,6 +157,10 @@ include:
   - _pages
   - files
 exclude:
+  - markdown_generator
+  - talkmap
+  - talkmap.py
+  - talkmap.ipynb
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
