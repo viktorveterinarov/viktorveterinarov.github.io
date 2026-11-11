@@ -3035,3 +3035,17 @@ blockquote {
     display: none !important;
   }
 }
+
+/* 2026-11-11: shared modest section heading for Research page
+   ("Working Papers" h1 + "Publications in Russian" h2). Overrides the
+   larger .russian-head h2 sizes above, incl. the mobile one. */
+.section-heading,
+.russian-head h2 {
+  max-width: none;
+  margin: 0;
+  font-family: var(--serif);
+  font-size: clamp(26px, 2.6vw, 34px);
+  font-weight: 400;
+  letter-spacing: -0.008em;
+  line-height: 1.1;
+}
