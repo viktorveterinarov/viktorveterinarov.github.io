@@ -3108,3 +3108,9 @@ blockquote {
   color: var(--sage);
   font-weight: 650;
 }
+
+/* 2026-11-11: evaluation highlights in the old site's colour (#C2185B). */
+.quote-highlight,
+.teaching-compact-evaluation .score .score-verdict {
+  color: #C2185B;
+}
