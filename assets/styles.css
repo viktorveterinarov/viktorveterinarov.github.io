@@ -3049,3 +3049,14 @@ blockquote {
   letter-spacing: -0.008em;
   line-height: 1.1;
 }
+
+/* 2026-11-11: journal status line more visible, journal name bold
+   (as on co-authors' sites). */
+.research-status {
+  font-size: 17px;
+}
+
+.research-status strong {
+  font-weight: 600;
+  color: var(--ink);
+}
