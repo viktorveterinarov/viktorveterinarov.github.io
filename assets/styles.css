@@ -3114,3 +3114,18 @@ blockquote {
 .teaching-compact-evaluation .score .score-verdict {
   color: #C2185B;
 }
+
+/* 2026-11-11: "Excellent" at the same size as 3.95/4.00, directly under it,
+   in the highlight colour; small details follow. */
+.teaching-compact-evaluation .score {
+  gap: 0;
+}
+
+.teaching-compact-evaluation .score .score-verdict-big {
+  margin-top: 4px;
+  color: #C2185B;
+}
+
+.teaching-compact-evaluation .score span {
+  margin-top: 16px;
+}
