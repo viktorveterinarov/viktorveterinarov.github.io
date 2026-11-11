@@ -3074,3 +3074,12 @@ blockquote {
   aspect-ratio: auto;
   object-fit: initial;
 }
+
+/* 2026-11-11: CV header now holds only the Download button
+   (title + intro text removed). Right-aligned on desktop; the existing
+   <=700px rules still make the button full width. */
+.cv-pdf-header {
+  grid-template-columns: 1fr;
+  gap: 0;
+  padding: 0 0 20px;
+}
