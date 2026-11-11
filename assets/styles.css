@@ -3083,3 +3083,28 @@ blockquote {
   gap: 0;
   padding: 0 0 20px;
 }
+
+/* 2026-11-11: teaching evaluation shows full "3.95/4.00" at one size,
+   with the restored details (question, distribution, n, response rate)
+   stacked underneath. */
+.teaching-compact-evaluation .score {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 14px;
+}
+
+.teaching-compact-evaluation .score strong {
+  font-size: clamp(48px, 4.4vw, 64px);
+  white-space: nowrap;
+}
+
+.teaching-compact-evaluation .score span {
+  max-width: none;
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+.teaching-compact-evaluation .score .score-verdict {
+  color: var(--sage);
+  font-weight: 650;
+}
