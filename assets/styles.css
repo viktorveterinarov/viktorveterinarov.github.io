@@ -1229,3 +1229,7 @@ blockquote {
 .portrait-wrap {
   aspect-ratio: 1 / 1;
 }
+
+.portrait {
+  filter: none;
+}
