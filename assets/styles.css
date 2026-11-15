@@ -1225,3 +1225,7 @@ blockquote {
 .portrait-wrap::after {
   content: none;
 }
+
+.portrait-wrap {
+  aspect-ratio: 1 / 1;
+}
