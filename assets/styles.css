@@ -1221,3 +1221,7 @@ blockquote {
   white-space: nowrap;
   border: 0;
 }
+
+.portrait-wrap::after {
+  content: none;
+}
