@@ -1233,3 +1233,18 @@ blockquote {
 .portrait {
   filter: none;
 }
+
+.portrait-wrap {
+  align-self: start;
+}
+
+.home-hero {
+  align-items: start;
+  align-content: center;
+}
+
+@media (min-width: 701px) {
+  .portrait-wrap {
+    margin-top: 10px;
+  }
+}
