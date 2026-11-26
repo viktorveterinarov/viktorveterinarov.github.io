@@ -1198,3 +1198,12 @@ blockquote {
     margin-top: 10px;
   }
 }
+
+.course-fact dd a.person-name {
+  display: inline;
+  margin-top: 0;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  overflow-wrap: normal;
+}
